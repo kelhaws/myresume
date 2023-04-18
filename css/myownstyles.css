@@ -1,15 +1,19 @@
+/*this is the code for the lined paper background*/
 .bckgrnd {
     background-image: url(../Images/bckgrnd-img2.avif);
 }
 
+/*this is the code for link color*/
 a{
     color: rgb(77, 106, 15);
 }
 
+/*this is the code for making the position absolute*/
 .common{
     position: absolute;
 }
 
+/*this is the code for main nav*/
 .nav {
     color: darkslategrey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -24,6 +28,7 @@ a{
     text-align: center;
 }
 
+/*this is the code for the body text*/
 .body{
     top: 185px;
     left: 20px;
